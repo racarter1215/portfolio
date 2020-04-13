@@ -1,3 +1,43 @@
+Number and name of feature: Feature 1 Refactor the CSS
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:00 am
+
+Finish time: 10:30 am
+
+Actual time needed to complete: 1.5 hours
+
+Number and name of feature: Feature 2 Modify the contents
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:00 am
+
+Finish time: 10:30 am
+
+Actual time needed to complete: 1.5 hours
+
+https://unsplash.com/photos/BfrQnKBulYQ
+Photo by Shahadat Rahman on Unsplash
+
+https://unsplash.com/photos/PECxiEc8jHU
+Photo by Reiseuhu on Unsplash
+
+https://unsplash.com/photos/FyeVOF4P4YI
+Photo by William Navarro on Unsplash
+
+https://unsplash.com/photos/PUVgHyBgZn8
+Photo by Zoriana Stakhniv on Unsplash
+
+https://unsplash.com/photos/_gtwjIzQLq4
+Photo by Justin Cron on Unsplash
+
+https://unsplash.com/photos/dpVJtfywdX4
+Photo by oakie on Unsplash
+
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
